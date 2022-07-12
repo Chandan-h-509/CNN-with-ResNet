@@ -1,5 +1,5 @@
 # CNN-with-ResNet
-Implementation of CNN using ResNet
+Implementation of CNN using ResNet (in PyTorch)
 
 
 In this project I have implemented CNN along with ResNet.
